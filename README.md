@@ -15,7 +15,7 @@ RMSE (Root Mean Squared Error) : 0.48085813685446327
 MAPE (Mean Absolute Percentage Error) : 251858658960344.7
 MSLE (Mean Squared Log Error) : 0.11109253087236372
 
-# YANG lama
+# YANG di video
 MAE (Mean Absolute Error) : 0.2333080784165167
 MSE (Mean Squared Error) : 0.2333080784165167
 RMSE (Root Mean Squared Error) : 0.48301974950980703
